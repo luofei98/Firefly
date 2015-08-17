@@ -1,0 +1,19 @@
+{
+  "name": "firefly-controller",
+  "version": "1.0.0",
+  "description": "",
+  "main": "controller.js",
+  "dependencies": {
+    "chalk": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gtmtg/Firefly.git"
+  },
+  "author": "Mihir Garimella",
+  "license": "Apache",
+  "bugs": {
+    "url": "https://github.com/gtmtg/Firefly/issues"
+  },
+  "homepage": "https://hackaday.io/project/7139-firefly-a-low-cost-flying-robot-to-save-lives"
+}
